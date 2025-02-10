@@ -1,5 +1,5 @@
 # Spring Feign Client
-These two rest Spring projects tests the Spring Feign client, which is a declarative web service client.
+These two rest Spring projects assess the Spring Feign client, which is a declarative web service client.
 
 Obviously things won't be that simple, and you may have to write a Feign Config class, for instance to add a bearer into the header.
 
